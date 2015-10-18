@@ -1,0 +1,33 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi 
+\doTocEntry\toclikesection{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Contents}}{1}\relax 
+\doTocEntry\tocsection{1}{\csname a:TocLink\endcsname{1}{x1-20001}{QQ2-1-2}{The hungry human}}{1}\relax 
+\doTocEntry\tocsection{2}{\csname a:TocLink\endcsname{1}{x1-30002}{QQ2-1-3}{Are you surviving the mushroom cave?}}{7}\relax 
+\doTocEntry\tocsection{3}{\csname a:TocLink\endcsname{1}{x1-40003}{QQ2-1-4}{Man is a hunger creature}}{8}\relax 
+\doTocEntry\tocsection{4}{\csname a:TocLink\endcsname{1}{x1-50004}{QQ2-1-5}{On what kind of foods do you exist?}}{8}\relax 
+\doTocEntry\tocsection{5}{\csname a:TocLink\endcsname{1}{x1-60005}{QQ2-1-6}{Fruit eating is least offensive}}{9}\relax 
+\doTocEntry\tocsection{6}{\csname a:TocLink\endcsname{1}{x1-70006}{QQ2-1-7}{The self-consuming body}}{12}\relax 
+\doTocEntry\tocsection{7}{\csname a:TocLink\endcsname{1}{x1-80007}{QQ2-1-8}{What to expect from a fruit diet?}}{13}\relax 
+\doTocEntry\tocsection{8}{\csname a:TocLink\endcsname{1}{x1-90008}{QQ2-1-9}{Food is an instigator, not a life-giver}}{14}\relax 
+\doTocEntry\tocsection{9}{\csname a:TocLink\endcsname{1}{x1-100009}{QQ2-1-10}{Narcotic food}}{15}\relax 
+\doTocEntry\tocsection{10}{\csname a:TocLink\endcsname{1}{x1-1100010}{QQ2-1-11}{No need for hunger}}{16}\relax 
+\doTocEntry\tocsection{11}{\csname a:TocLink\endcsname{1}{x1-1200011}{QQ2-1-12}{Unnatural activities force unnatural foods}}{19}\relax 
+\doTocEntry\tocsection{12}{\csname a:TocLink\endcsname{1}{x1-1300012}{QQ2-1-13}{Understand cravings}}{22}\relax 
+\doTocEntry\tocsection{13}{\csname a:TocLink\endcsname{1}{x1-1400013}{QQ2-1-14}{The simple rules of eating}}{22}\relax 
+\doTocEntry\tocsection{14}{\csname a:TocLink\endcsname{1}{x1-1500014}{QQ2-1-15}{Fruits speak for themselves}}{24}\relax 
+\doTocEntry\tocsection{15}{\csname a:TocLink\endcsname{1}{x1-1600015}{QQ2-1-16}{Eat with your mind}}{27}\relax 
+\doTocEntry\tocsection{16}{\csname a:TocLink\endcsname{1}{x1-1700016}{QQ2-1-17}{Toleration is a slow death}}{27}\relax 
+\doTocEntry\tocsection{17}{\csname a:TocLink\endcsname{1}{x1-1800017}{QQ2-1-18}{Endorphins}}{33}\relax 
+\doTocEntry\tocsection{18}{\csname a:TocLink\endcsname{1}{x1-1900018}{QQ2-1-19}{The mind cannot save the glutton}}{33}\relax 
+\doTocEntry\tocsection{19}{\csname a:TocLink\endcsname{1}{x1-2000019}{QQ2-1-20}{Pain is a heavenly guide}}{36}\relax 
+\doTocEntry\tocsection{20}{\csname a:TocLink\endcsname{1}{x1-2100020}{QQ2-1-21}{Disease is a soul saver}}{39}\relax 
+\doTocEntry\tocsection{21}{\csname a:TocLink\endcsname{1}{x1-2200021}{QQ2-1-22}{Old wive's tales}}{43}\relax 
+\doTocEntry\tocsection{22}{\csname a:TocLink\endcsname{1}{x1-2300022}{QQ2-1-23}{Not doing but resting heals}}{43}\relax 
+\doTocEntry\tocsection{23}{\csname a:TocLink\endcsname{1}{x1-2400023}{QQ2-1-24}{The house of health}}{46}\relax 
+\doTocEntry\tocsection{24}{\csname a:TocLink\endcsname{1}{x1-2500024}{QQ2-1-25}{Crystallized wants}}{49}\relax 
+\doTocEntry\tocsection{25}{\csname a:TocLink\endcsname{1}{x1-2600025}{QQ2-1-26}{Hershey bars}}{52}\relax 
+\doTocEntry\tocsection{26}{\csname a:TocLink\endcsname{1}{x1-2700026}{QQ2-1-27}{The barroom}}{55}\relax 
+\doTocEntry\tocsection{27}{\csname a:TocLink\endcsname{1}{x1-2800027}{QQ2-1-28}{The castle in the air}}{55}\relax 
+\doTocEntry\tocsection{28}{\csname a:TocLink\endcsname{1}{x1-2900028}{QQ2-1-29}{All food is destructive}}{55}\relax 
+\doTocEntry\tocsection{29}{\csname a:TocLink\endcsname{1}{x1-3000029}{QQ2-1-30}{The world of duality}}{57}\relax 
+\doTocEntry\tocsection{30}{\csname a:TocLink\endcsname{1}{x1-3100030}{QQ2-1-31}{The body is a child of the mind}}{57}\relax 
+\par 
